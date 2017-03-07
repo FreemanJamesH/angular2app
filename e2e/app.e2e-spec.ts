@@ -1,10 +1,10 @@
-import { JamesfreemanioPage } from './app.po';
+import { angular2appPage } from './app.po';
 
-describe('jamesfreemanio App', () => {
-  let page: JamesfreemanioPage;
+describe('angular2app App', () => {
+  let page: angular2appPage;
 
   beforeEach(() => {
-    page = new JamesfreemanioPage();
+    page = new angular2appPage();
   });
 
   it('should display message saying app works', () => {
