@@ -4,6 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   template: `
    <h1>Inline Template</h1>
+   <app-databinding></app-databinding>
   `,
 })
 export class AppComponent {
